@@ -63,4 +63,20 @@ Some Text
 
 Code and documentation copyright 2023-2024 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
 
-Enjoy :metal:
+Enjoy :metal: 
+
+
+
+**Basic template outline:**
+Below is a template to use if needed in the future
+
+## Project Context
+who/what/why? Business case.
+## Document the data collection procedure:
+how did you collect this data?
+## format of data
+how is the data formatted?
+ - JSON
+ - SQL database
+ - Pandas Dataframe?
+## Licensing and legal constraints
